@@ -1,5 +1,7 @@
 # 📄 AI PDF Chatbot
 
+![AI PDF Chatbot Screenshot](screenshot.png)
+
 A RAG-based PDF question-answering chatbot built using Python, Streamlit, LangChain, FAISS, HuggingFace Embeddings, and Groq LLM.
 
 ## 🚀 Live Demo
