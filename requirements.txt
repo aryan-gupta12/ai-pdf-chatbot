@@ -1,5 +1,7 @@
 streamlit
 pypdf
+python-docx
+beautifulsoup4
 langchain
 langchain-community
 langchain-text-splitters
@@ -7,3 +9,6 @@ langchain-groq
 faiss-cpu
 sentence-transformers
 python-dotenv
+scikit-learn
+numpy
+pandas
